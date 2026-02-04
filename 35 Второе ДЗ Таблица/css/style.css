@@ -1,0 +1,26 @@
+table {
+  border-collapse: collapse;
+  margin: 20px;
+}
+
+
+
+td,
+th,
+caption {
+  border: 1px solid #000;
+}
+
+
+caption {
+  font-weight: bold;
+  border-bottom: none;
+  font-family: sans-serif;
+}
+
+
+
+.color {
+  color: red;
+  font-weight: bold;
+}
